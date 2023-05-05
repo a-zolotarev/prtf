@@ -1,0 +1,32 @@
+@media (max-width: 900px){
+    .main-description{
+        left: 45px;
+        right: 45px;
+        top: 45px;
+        bottom: 45px;
+    }
+}
+@media (max-height: 550px){
+    .main-description{
+        left: 45px;
+        right: 45px;
+        top: 45px;
+        bottom: 45px;
+    }
+}
+@media (max-width: 420px){
+    .main-description{
+        left: 20px;
+        right: 20px;
+        top: 20px;
+        bottom: 20px;
+    }
+}
+@media (max-height: 420px){
+    .main-description{
+        left: 20px;
+        right: 20px;
+        top: 20px;
+        bottom: 20px;
+    }
+}
